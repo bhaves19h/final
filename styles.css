@@ -253,11 +253,13 @@ hero-image-2 {
   }
 
   .typewriter {
-    position: absolute;
+	  top: -170px;
+    position: relative;
+   /** position: absolute;
     right: -520px;
     /* bottom: 00px; */
-    top: 350px;
-    padding: 620px;
+   /* top: 350px;
+    padding: 620px;*/
 }
 
 .typewriter h1 {
