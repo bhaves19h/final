@@ -1282,9 +1282,14 @@ a.footermenunavlinkwrapper.w-inline-block {
     margin-bottom: -1px;
 }
 .container2 {
+    .container2 {
     top: 170px;
-    left: 560px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* padding-left: 860px; */
     position: relative;
+}
 }
 
 
