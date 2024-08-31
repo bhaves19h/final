@@ -1284,12 +1284,9 @@ a.footermenunavlinkwrapper.w-inline-block {
     margin-bottom: -1px;
 }
 .container2 {
-    .container2 {
-    top: 170px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    /* padding-left: 860px; */
+ top: 140px;
+    padding-left: 519px;
+    /* left: 560px; */
     position: relative;
 }
 }
